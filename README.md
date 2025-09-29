@@ -7,8 +7,6 @@ The primary objective was to capture live network packets using the Wireshark to
 Wireshark (Free network protocol analyzer) 
 
    Summary of Work Completed:-
-   
-I completed the following steps to fulfill the task requirements:
 
 Installed Wireshark and identified my active network interface.
 
